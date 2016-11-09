@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("tmd", "onCreate: 第一次进行修改");
+        Log.i("tmd", "onCreate:添加ay类和图片");
     }
 }
